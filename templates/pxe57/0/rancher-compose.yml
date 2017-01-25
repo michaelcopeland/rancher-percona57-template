@@ -1,5 +1,5 @@
 .catalog:
-  name: "Percona XtraDB Cluster"
+  name: "Percona XtraDB Cluster (5.7)"
   version: 5.7
   description: |
     Percona XtraDB Cluster 5.7
