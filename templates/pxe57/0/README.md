@@ -1,8 +1,8 @@
-# Percona XtraDB Cluster
+# Percona XtraDB Cluster (MySQL 5.7)
 
 ### Info:
 
-This template creates a Percona XtraDB Cluster on top of Rancher.
+This template creates a Percona XtraDB 5.7 Cluster on top of Rancher.
 
 When deployed from the catalog, a three node cluster is created with a database, root password, database user and password. The cluster is set up for replication between all of the nodes. Health check monitors port 8000 for clustercheck status updates.
 
